@@ -17,6 +17,7 @@ public class InventoryItem
         QuantityInStock = quantityInStock;
     }
 
+
     // Methods
 
     // Update the price of the item
